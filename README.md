@@ -1,2 +1,2 @@
-# MAH-HW3_Random-Password_Generator
+# MAH-Random-Password-Generator-HW3
 GT Full-stack Web Development Program HW3
