@@ -8,3 +8,9 @@ The functionality of the code is as it appears below:
 
 
 ![03-javascript-homework-demo](https://user-images.githubusercontent.com/100103479/159605876-0376f895-7953-4d30-83bc-2e56e5de5822.png)
+
+
+Application Website: https://malikhenry1.github.io/MAH-Random-Password-Generator-HW3/
+
+
+GitHub:  https://github.com/MalikHenry1/MAH-Random-Password-Generator-HW3
